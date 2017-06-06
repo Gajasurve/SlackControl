@@ -1,5 +1,5 @@
 # SlackControl
-Slack Bot for remotely executing commands on Linux .
+Slack Bot for remotely executing commands on Linux / Windows .
 
 Requires slackclient. #Install using pip install slackclient
 
